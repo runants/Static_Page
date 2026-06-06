@@ -1,0 +1,1 @@
+import{s as r}from"./index-CzAjGuQ9.js";function i(e,t){return r({url:"/file/upload",method:"post",data:e,params:{source:t}})}function l(e){return r({url:"/file/delete",method:"get",params:{url:e}})}export{l as d,i as u};
